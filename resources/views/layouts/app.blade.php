@@ -21,7 +21,7 @@
         <div class="row">
 
             {{-- Header --}}
-            <nav class="navbar navbar-expand-lg navbar-dark py-4" style="background-color:rgb(240, 255, 246);">
+            <nav class="navbar navbar-expand-lg navbar-dark py-4" style="background-color:rgb(181, 93, 0);">
                 <div class="container-fluid justify-content-center">
                     <span class="navbar-brand mb-0 fs-3">⚜️BALAI PUSTAKA PRADIPA ⚜️</span>
                 </div>
